@@ -1,5 +1,9 @@
 package asteroids.model;
 
+//Name: Dominik Claerman
+//Course: Objectgericht Programmeren (Informatica 1e Bachelor)
+//Git: https://Dominator_@bitbucket.org/Dominator_/ogp1617-astroids.git
+
 import java.util.Random;
 
 import asteroids.part2.CollisionListener;

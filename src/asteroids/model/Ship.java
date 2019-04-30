@@ -6,7 +6,7 @@ import java.util.Collection;
 import java.util.HashSet;
 import java.util.Set;
 
-//Name: Sebastiaan Wouters
+//Name: Dominik Claerman
 //Course: Objectgericht Programmeren (Informatica 1e Bachelor)
 //Git (bitbucket): https://Dominator_@bitbucket.org/Dominator_/ogp1617-astroids.git
 

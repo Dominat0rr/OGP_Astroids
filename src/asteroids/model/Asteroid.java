@@ -1,6 +1,6 @@
 package asteroids.model;
 
-//Name: Sebastiaan Wouters, Dominik Claerman
+//Name: Dominik Claerman
 //Course: Objectgericht Programmeren (Informatica 1e Bachelor)
 //Git: https://Dominator_@bitbucket.org/Dominator_/ogp1617-astroids.git
 

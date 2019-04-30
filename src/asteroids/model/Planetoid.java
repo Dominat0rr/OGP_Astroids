@@ -1,5 +1,9 @@
 package asteroids.model;
 
+//Name: Dominik Claerman
+//Course: Objectgericht Programmeren (Informatica 1e Bachelor)
+//Git: https://Dominator_@bitbucket.org/Dominator_/ogp1617-astroids.git
+
 import be.kuleuven.cs.som.annotate.Basic;
 
 public class Planetoid extends MinorPlanet{

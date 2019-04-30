@@ -8,7 +8,7 @@ import java.util.Set;
 import java.util.HashSet;
 import be.kuleuven.cs.som.annotate.*;
 
-//Name: Sebastiaan Wouters, Dominik Claerman
+//Name: Dominik Claerman
 //Course: Objectgericht Programmeren (Informatica 1e Bachelor)
 //No code Repository
 
