@@ -20,7 +20,7 @@ package asteroids.model;
 * 			| isValidRadius(radius)
 * 
 * @version: 1.0
-* @authors Sebastiaan Wouters, Dominik Claerman
+* @authors Dominik Claerman
 *
 */
 

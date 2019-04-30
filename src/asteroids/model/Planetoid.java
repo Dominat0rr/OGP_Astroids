@@ -6,6 +6,12 @@ package asteroids.model;
 
 import be.kuleuven.cs.som.annotate.Basic;
 
+/**
+* @version: 1.0
+* @authors Dominik Claerman
+*
+*/
+
 public class Planetoid extends MinorPlanet{
 	
 	private double distanceTraveled;

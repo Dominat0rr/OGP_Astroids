@@ -6,6 +6,7 @@ package asteroids.model;
  *  		This is a helper class
  * 
  */
+
 public class Vector {
 	/**
 	* variable that represents the x-component of the vector

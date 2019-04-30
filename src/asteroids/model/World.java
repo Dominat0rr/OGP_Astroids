@@ -24,7 +24,7 @@ import be.kuleuven.cs.som.annotate.*;
  * 			| isValidSize(width, height)
  * 
  * @version: 1.0
- * @authors Sebastiaan Wouters, Dominik Claerman
+ * @authors Dominik Claerman
  *
  */
 

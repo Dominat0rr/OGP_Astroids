@@ -9,6 +9,12 @@ import java.util.Random;
 import asteroids.part2.CollisionListener;
 import be.kuleuven.cs.som.annotate.Basic;
 
+/**
+* @version: 1.0
+* @authors Dominik Claerman
+*
+*/
+
 public class Entity {
 	  /**
 	  * Static variable inf is equals to Double.POSITIVE_INFINITY
